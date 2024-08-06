@@ -61,10 +61,7 @@ For the initial implementation, the application supports the following currencie
      ```sh
      mv .env.example .env
      ```
-   - Open the `.env` file and add your API key:
-     ```env
-     API_KEY=your_api_key_here
-     ```
+   - Open the `.env` file and add your API key
 
 4. **Run the application:**
    ```sh
