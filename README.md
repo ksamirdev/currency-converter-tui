@@ -4,6 +4,8 @@
 
 This project is a Currency Converter application written in Go. It features a Text User Interface (TUI) to provide a user-friendly way to convert between different currencies. The application fetches real-time currency exchange rates from a public API.
 
+![App's Demo](/demo.png "App's Demo")
+
 ## Packages Used
 
 - **net/http**: Used for making HTTP requests to the currency exchange API.
