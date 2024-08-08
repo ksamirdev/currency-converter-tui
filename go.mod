@@ -1,4 +1,4 @@
-module github.com/samocodes/currency-converter-tui
+module github.com/ksamirdev/currency-converter-tui
 
 go 1.22.5
 
